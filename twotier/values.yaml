@@ -1,0 +1,8 @@
+replicaCount: 3
+image:
+  backend:
+    repository: azizul2go/two-tier-backend-image
+    tag: latest
+  frontend:
+    repository: azizul2go/two-tier-frontend-image
+    tag: v2

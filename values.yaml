@@ -1,0 +1,7 @@
+auth:
+  rootPassword: "hello123"
+  createDatabase: true
+  database: "twotierbackenddb"
+  username: "secureuser"
+  password: "very-secure-password"
+
